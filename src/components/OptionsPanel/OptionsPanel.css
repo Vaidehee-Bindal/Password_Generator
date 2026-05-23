@@ -38,9 +38,13 @@
 
 .length-header span {
 
+  font-size: 1.1rem;
+
   font-weight: 700;
 
-  color: var(--accent);
+  color: var(--text-primary);
+
+  opacity: 0.95;
 }
 
 /* SLIDER */
