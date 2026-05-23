@@ -7,7 +7,7 @@ This application allows users to generate highly secure random passwords and mem
 
 # Live Demo
 
-https://cryptographic-free-password-generator.vercel.app/
+Try it here - https://cryptographic-free-password-generator.vercel.app/
 
 # Video Demo 
 https://github.com/user-attachments/assets/a04dd613-9dc1-4e70-836f-43162bc7f95f
