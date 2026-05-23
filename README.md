@@ -9,6 +9,8 @@ This application allows users to generate highly secure random passwords and mem
 
 https://cryptographic-free-password-generator.vercel.app/
 
+# Video Demo 
+https://github.com/user-attachments/assets/a04dd613-9dc1-4e70-836f-43162bc7f95f
 
 # Features
 
@@ -179,4 +181,5 @@ This application uses:
 - Local browser-side generation
 
 No passwords are stored or sent to any server.
+
 
